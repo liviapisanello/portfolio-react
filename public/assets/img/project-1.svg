@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Placeholder: painel com gráficos">
+  <rect width="640" height="400" fill="#0A0614"/>
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity=".1"/></pattern>
+    <radialGradient id="r" cx="80%" cy="0%" r="70%"><stop offset="0" stop-color="#7C3AED" stop-opacity=".5"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#g)"/>
+  <rect width="640" height="400" fill="url(#r)"/>
+  <rect x="40" y="36" width="560" height="328" rx="8" fill="#0A0614" stroke="#A78BFA" stroke-opacity=".5"/>
+  <rect x="40" y="36" width="560" height="32" rx="8" fill="#A78BFA" fill-opacity=".1"/>
+  <circle cx="60" cy="52" r="4" fill="none" stroke="#A78BFA"/><circle cx="76" cy="52" r="4" fill="none" stroke="#A78BFA"/><circle cx="92" cy="52" r="4" fill="none" stroke="#A78BFA"/>
+  <g fill="#A78BFA" fill-opacity=".14" stroke="#A78BFA" stroke-opacity=".4">
+    <rect x="60" y="88" width="160" height="64" rx="4"/><rect x="240" y="88" width="160" height="64" rx="4"/><rect x="420" y="88" width="160" height="64" rx="4"/>
+  </g>
+  <g fill="#22E5FF"><rect x="72" y="102" width="48" height="6" rx="3" fill-opacity=".6"/><rect x="252" y="102" width="48" height="6" rx="3" fill-opacity=".6"/><rect x="432" y="102" width="48" height="6" rx="3" fill-opacity=".6"/>
+    <rect x="72" y="120" width="84" height="16" rx="3"/><rect x="252" y="120" width="64" height="16" rx="3"/><rect x="432" y="120" width="96" height="16" rx="3"/></g>
+  <rect x="60" y="168" width="340" height="180" rx="4" fill="#A78BFA" fill-opacity=".06" stroke="#A78BFA" stroke-opacity=".4"/>
+  <g fill="#7C3AED"><rect x="84" y="290" width="28" height="42"/><rect x="128" y="260" width="28" height="72"/><rect x="172" y="276" width="28" height="56"/><rect x="216" y="232" width="28" height="100"/><rect x="260" y="250" width="28" height="82"/><rect x="304" y="204" width="28" height="128"/><rect x="348" y="222" width="28" height="110" fill="#A78BFA"/></g>
+  <rect x="420" y="168" width="160" height="180" rx="4" fill="#A78BFA" fill-opacity=".06" stroke="#A78BFA" stroke-opacity=".4"/>
+  <circle cx="500" cy="258" r="44" fill="none" stroke="#A78BFA" stroke-opacity=".25" stroke-width="12"/>
+  <circle cx="500" cy="258" r="44" fill="none" stroke="#22E5FF" stroke-width="12" stroke-dasharray="170 276" transform="rotate(-90 500 258)"/>
+</svg>
